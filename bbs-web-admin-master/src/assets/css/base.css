@@ -1,0 +1,170 @@
+body {
+	margin: 0px;
+	color: #606266;
+	background-color: #ffffff;
+	font-size:14px;
+	font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+}
+html,body{
+	height:100%;/*overflow-y:hidden;margin:0 auto;*/
+}
+
+a {
+	outline: none;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+div {
+	padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px
+}
+ul {
+	padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px;
+	
+}
+/* 去除黑点 */
+ul,ol {list-style:none;}
+dl {
+	padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px
+}
+
+
+
+textarea {
+	resize: none;
+}
+
+body,ul,ol,li,dl,dd,p,h1,h2,h3,h4,h5,h6,form,fieldset{
+	margin: 0;
+	padding: 0;
+}
+
+table {
+	empty-cells: show;
+	border-collapse: collapse;
+}
+
+caption,th {
+	text-align: left;
+	font-weight: 400;
+}
+
+ul li{
+	list-style: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-size: 1em;
+}
+
+em,cite,i {
+	font-style: normal;
+}
+
+a img {
+	border: none;
+}
+
+label {
+	cursor: pointer;
+}
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,hr,button {
+	margin: 0;
+	padding: 0;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+caption,th {
+	text-align: left;
+	font-weight: normal;
+}
+
+html,body,fieldset,img,iframe,abbr {
+	border: 0;
+}
+
+html {
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+
+i,em {
+	font-style: normal;
+}
+
+ol,ul,li {
+	list-style: none;
+}
+
+h1,h2,h3,h4,h5,h6,small {
+	font-size: 100%;
+	font-weight: normal
+}
+
+textarea {
+	overflow: auto;
+	resize: none;
+}
+
+label {
+	cursor: default;
+}
+button {
+	outline: none;
+}
+
+a,button {
+	cursor: pointer;
+}
+ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+.clearfix {
+	zoom: 1;
+}
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+/*Tooltip 文字提示 */
+.el-popper.is-dark{
+	opacity: 0.8;
+}
+/* 隐藏行 */
+.el-table .hidden-row {
+	display: none;
+}
+/* 图片弹出层 */
+.el-image__inner.el-image__preview{
+	z-index: 99 !important;
+}
+.el-image-viewer__actions{
+	background-color: rgba(0,0,0,0.2) !important;
+}
+.el-image-viewer__btn{
+	opacity: inherit !important;
+}
+
+
+
+#app {
+  height: 100%;
+}
+
+

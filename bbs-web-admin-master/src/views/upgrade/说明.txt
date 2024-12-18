@@ -1,0 +1,4 @@
+bbs版本轻论坛用upgradeSystemList-bbs.vue，需要修改src\router\index.ts的upgradeSystemList项为import('@/views/upgrade/upgradeSystemList-bbs.vue')
+
+
+bbs-pro版本轻论坛用upgradeSystemList.vue
