@@ -1,9 +1,9 @@
-##  Spring Boot 轻论坛后端请移步至 [https://gitee.com/diyhi/bbs-pro](https://gitee.com/diyhi/bbs-pro)
+###  前后端分离版SpringBoot轻论坛后端请移步至 [[https://gitee.com/diyhi/bbs-web-admin](https://github.com/zhangsan2280/springboot-forum/tree/main/bbs-pro-master)]
 
 <br>
 
 ## 项目介绍
-巡云轻论坛的配套管理后台前端项目，需要搭配指定版本的后端使用
+反诈轻论坛的配套管理后台前端项目，需要搭配指定版本的后端使用
 
 <br><br>
 
@@ -23,12 +23,8 @@
 #### 技术选型
 Vite2 + TypeScript + Vue3 + element-plus
 
-官方网站：[http://www.diyhi.com/](http://www.diyhi.com/)
+反诈网站： https://www.telegramfanzha.com/ 测试账号：test 密码:1234567
 
-演示网站：[http://www.diyhi.com/cms.html](http://www.diyhi.com/cms.html) 页面可获取前后台演示地址、登录账号和密码
-
-
-服务器部署配置参考：[http://www.diyhi.com/article-10.html](http://www.diyhi.com/article-10.html)
 
 <br>
 
